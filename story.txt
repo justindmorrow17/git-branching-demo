@@ -1,7 +1,2 @@
-On my drive in today.
-Charlene needs to do some announcements.
-Today is Monday. It is a great day.
-This afternoon we will start projects.
-
-This is from the snoopy branch.
-Going to merge into master.
+man an HHTP request to the API.
+This works.
